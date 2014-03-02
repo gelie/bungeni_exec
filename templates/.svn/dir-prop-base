@@ -1,0 +1,6 @@
+K 13
+svn:externals
+V 66
+static https://bungeni-exist.googlecode.com/svn/static-del-rules/
+
+END

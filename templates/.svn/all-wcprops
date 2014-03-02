@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/10821/fabric/trunk/templates
+END
+bungeni_local.cfg.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/7771/fabric/trunk/templates/bungeni_local.cfg.tmpl
+END
+zope.conf.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/10569/fabric/trunk/templates/zope.conf.tmpl
+END
+xmldb.properties.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/10492/fabric/trunk/templates/xmldb.properties.tmpl
+END
+externals.txt
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/9382/fabric/trunk/templates/externals.txt
+END
+portal_local.cfg.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/7771/fabric/trunk/templates/portal_local.cfg.tmpl
+END
+supervisord.conf.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/10663/fabric/trunk/templates/supervisord.conf.tmpl
+END
+glue.ini.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/10821/fabric/trunk/templates/glue.ini.tmpl
+END
+xmldb_store_collection_indexes.xml.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/10492/fabric/trunk/templates/xmldb_store_collection_indexes.xml.tmpl
+END
+xmldb_reset_demo.xml.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/9645/fabric/trunk/templates/xmldb_reset_demo.xml.tmpl
+END
+xmldb_store_fw.xml.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/9955/fabric/trunk/templates/xmldb_store_fw.xml.tmpl
+END
+deliverance-proxy.conf.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/10522/fabric/trunk/templates/deliverance-proxy.conf.tmpl
+END
+xmldb_store_demo.xml.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/10003/fabric/trunk/templates/xmldb_store_demo.xml.tmpl
+END
+plone_local.cfg.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/7771/fabric/trunk/templates/plone_local.cfg.tmpl
+END
+status.html.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/9747/fabric/trunk/templates/status.html.tmpl
+END
+xmldb_store_ce.xml.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/10341/fabric/trunk/templates/xmldb_store_ce.xml.tmpl
+END
